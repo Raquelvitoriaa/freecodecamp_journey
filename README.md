@@ -4,7 +4,7 @@
 
 FreeCodeCamp Journey
 
-| "Welcome to the Matrix of Code."
+> "Welcome to the Matrix of Code."
 
 ---
 
@@ -16,7 +16,7 @@ Minha jornada de estudos e evolução técnica através da plataforma <strong>Fr
 
 📚 Trilhas de Estudo
 
-[emoji] Responsive Web Design
+## # Responsive Web Design
 
 * HTML5
 * CSS3
@@ -27,7 +27,7 @@ Minha jornada de estudos e evolução técnica através da plataforma <strong>Fr
 
 ---
 
-JavaScript Algorithms and Data Structures 
+## # JavaScript Algorithms and Data Structures 
 
 * 
 * Arrays / Objects 

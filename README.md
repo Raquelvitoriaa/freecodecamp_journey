@@ -26,7 +26,12 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## 📚 Regarding certifications   
+## 📚 Regarding certifications  
+ 
+<p align="center">
+Loading...
+██████████████░░░░░░ 70%
+</p>
 
 Responsive Web Design
 
@@ -120,9 +125,9 @@ freecodecamp-journey/
 
 ## ☣️ Roadmap 
 
+
 <p align="center">
-Loading...
-██████████████░░░░░░ 70%
+> ACCESS GRANTED...
 </p>
 
 | Certificação | Progresso |

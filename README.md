@@ -167,6 +167,27 @@ Loading...
 ---
 
 <p align="center">
-<strong></strong>
+⚠️ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ⚠️
 </p>
-//terminar o que falta!
+
+## SYSTEM NOTICE
+
+> This repository documents my learning journey through the <strong>FreeCodeCamp</strong> platform and other educational resources related to software development.  
+
+```dif
++ All exercises, projects, and implementations were developed by me.  
++ For educational purposes, practice and technical development. 
+```
+
+```yaml
+Matrix Protocol:
+ Owen: Raquel Vitória
+ Objectives: Full Stack Evolution
+ Status: IN PROGRESS
+ Mode: LEARNING SIMULATION
+```
+
+Some challenges follow the original proposals of **FREECODECAMP**, but the entire implementation, organization, documentation, and customization of this repository represents my own learning process. 
+
+---
+

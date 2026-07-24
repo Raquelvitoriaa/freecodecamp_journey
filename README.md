@@ -26,7 +26,7 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## 📚 Roadmap 
+## 📚 Regarding certifications   
 
 Responsive Web Design
 
@@ -110,15 +110,45 @@ freecodecamp-journey/
 
 ## Objectives of this Repository 
 
-* To record my technical progress
-* To organize exercises and projects
-* To build a public learning history
-* ?
-
+* Develop a solid foundation in Web Development. 
+* Learn JavaScript. 
+* Develop practical projects.
+* To document all my progress. 
+* Building an organized portfolio.
  
 ---
 
-Progresso
+## ☣️ Roadmap 
+
+<p align="center">
+Loading...
+██████████████░░░░░░ 70%
+</p>
+
+| Certificação | Progresso |
+|--------------|-----------|
+| Responsive Web Design | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| JavaScript Algorithms and Data Structures | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Front End Development Libraries | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Data Visualization | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Relational Database | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Back End Development and APIs | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Quality Assurance | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Scientific Computing with Python | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Data Analysis with Python | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Information Security | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Machine Learning with Python | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| College Algebra with Python | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Foundational C# with Microsoft | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Certified Full Stack Developer | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Coding Interview Prep | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Project Euler | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Rosetta Code | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| English for Developers A2 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| English for Developers B1 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Professional Spanish A1 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| Professional Chinese A1 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+
 
 ---
 

@@ -125,7 +125,6 @@ freecodecamp-journey/
 
 ## ☣️ Roadmap 
 
-
 <p align="center">
 > ACCESS GRANTED...
 </p>
@@ -196,3 +195,6 @@ Some challenges follow the original proposals of **FREECODECAMP**, but the entir
 
 ---
 
+<p align="center">
+🟢 MATRIX CONNECTION ESTABLISHED 🟢
+</p>

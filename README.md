@@ -2,15 +2,27 @@
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Matrix Banner" width="100%" />
 </p>
 
-FreeCodeCamp Journey
+<h1 align="center">FreeCodeCamp Journey</h1>
 
 > "Welcome to the Matrix of Code."
 
 ---
 
 <p align="center">
-Minha jornada de estudos e evolução técnica através da plataforma <strong>FreeCodeCamp</strong>. Este repositório documenta exercícios, projetos e certificações concluídas durante minha formação como desenvolvedora.
+My journey of learning Software Development through <strong>FreeCodeCamp</strong>
 </p>
+
+---
+
+<p align="center">
+01001101 01100001 01110100 01110010 01101001 01111000
+</p>
+
+## 💊 Choose your pill 
+
+🔴 **Red pill** → Learn, practice, and evolve as a Dev. 
+
+🔵 **Blue pill** → Close this repository and pretend you never saw the code.
 
 ---
 

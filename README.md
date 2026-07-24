@@ -26,9 +26,9 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-📚 Trilhas de Estudo
+## 📚 Roadmap 
 
-## Responsive Web Design
+Responsive Web Design
 
 * HTML5
 * CSS3
@@ -39,7 +39,7 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## JavaScript Algorithms and Data Structures 
+JavaScript Algorithms and Data Structures 
 
 * 
 * Arrays / Objects 
@@ -50,7 +50,7 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## Front End Development Libraries 
+Front-End Development Libraries 
 
 * Bootstrap
 * Sass
@@ -60,7 +60,7 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## Back End Development and APIs
+Back-End Development and APIs
 
 * Node.js
 * Express
@@ -69,7 +69,7 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-## Quality Assurance
+Quality Assurance
 
 * Testing 
 * Chai
@@ -78,24 +78,25 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ---
 
-Estrutura do Repositório
+## Repository Structure 
 
 ---
 
-Objetivos deste Repositório
+## Objectives of this Repository 
 
-* Registrar minha evolução técnica 
-* Organizar exercícios e projetos
-* Construir histórico público de aprendizado
+* To record my technical progress
+* To organize exercises and projects
+* To build a public learning history
 * ?
 
+ 
 ---
 
 Progresso
 
 ---
 
-Tecnologia Utilizadas 
+## Technologies Used 
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />

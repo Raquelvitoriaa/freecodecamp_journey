@@ -80,6 +80,32 @@ Quality Assurance
 
 ## Repository Structure 
 
+```text
+freecodecamp-journey/
+│
+├── responsive-web-design/
+├── javascript-algorithms-and-data-structures/
+├── frontend-development-libraries/
+├── data-visualization/
+├── relational-database/
+├── back-end-development-and-apis/
+├── quality-assurance/
+├── scientific-computing-with-python/
+├── data-analysis-with-python/
+├── information-security/
+├── machine-learning-with-python/
+├── college-algebra-with-python/
+├── foundatinal-c-sharp-with-microsoft/
+├── certified-full-stack-developer/
+├── coding-interview-prep/
+├── project-euler/
+├── rosetta-code/
+├── english-for-developers-a2/
+├── english-for-developers-b1/
+├── professional-spanish-a1/
+└── professional-chinese-a1/
+```
+
 ---
 
 ## Objectives of this Repository 

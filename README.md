@@ -16,7 +16,7 @@ Minha jornada de estudos e evolução técnica através da plataforma <strong>Fr
 
 📚 Trilhas de Estudo
 
-## # Responsive Web Design
+## Responsive Web Design
 
 * HTML5
 * CSS3
@@ -27,7 +27,7 @@ Minha jornada de estudos e evolução técnica através da plataforma <strong>Fr
 
 ---
 
-## # JavaScript Algorithms and Data Structures 
+## JavaScript Algorithms and Data Structures 
 
 * 
 * Arrays / Objects 
@@ -38,7 +38,7 @@ Minha jornada de estudos e evolução técnica através da plataforma <strong>Fr
 
 ---
 
-Front End Development Libraries 
+## Front End Development Libraries 
 
 * Bootstrap
 * Sass
@@ -48,7 +48,7 @@ Front End Development Libraries
 
 ---
 
-Back End Development and APIs
+## Back End Development and APIs
 
 * Node.js
 * Express
@@ -57,7 +57,7 @@ Back End Development and APIs
 
 ---
 
-Quality Assurance
+## Quality Assurance
 
 * Testing 
 * Chai

@@ -20,6 +20,10 @@ My journey of learning Software Development through <strong>FreeCodeCamp</strong
 
 ## 💊 Choose your pill 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SCt3Miv6ugvSg/giphy.gif" width="250" />
+</p>
+
 🔴 **Red pill** → Learn, practice, and evolve as a Dev. 
 
 🔵 **Blue pill** → Close this repository and pretend you never saw the code.
@@ -166,7 +170,7 @@ freecodecamp-journey/
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SCt3Miv6ugvSg/giphy.gif" width="250" />
+
 </p>
 
 ---

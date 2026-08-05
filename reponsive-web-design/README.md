@@ -10,7 +10,7 @@ This certification covers the fundamentals of web development using HTML and CSS
 
 - Plataform: Free Code Camp
 - Certification: Reponsive Web Design
-- Started: 
+- Started: 14 / 03 / 2026
 - Completed: 
 - Progress:
 

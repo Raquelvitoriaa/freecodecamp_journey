@@ -99,9 +99,14 @@ Once i complete this certification, the official certificate will be avaliable i
 # Progress Tracker
 
 ```text
-
+*Overall Certification*
+██████░░░░░░░░░░░░░░ 29%
 ```
+## Modules
 
+- HTML Fundamentals ............ 87 / 137 (64%)
+- CSS & Responsive Design ...... 0 / 165 (0%)
+  
 ---
 
 # About This Repository

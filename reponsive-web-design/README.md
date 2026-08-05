@@ -99,7 +99,6 @@ Once i complete this certification, the official certificate will be avaliable i
 # Progress Tracker
 
 ```text
-*Overall Certification*
 ██████░░░░░░░░░░░░░░ 29%
 ```
 ## Modules

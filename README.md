@@ -10,11 +10,11 @@
 My journey of learning Software Development through <strong>FreeCodeCamp</strong>
 </p>
 
----
-
 <p align="center">
 01001101 01100001 01110100 01110010 01101001 01111000 00111101
 </p>
+
+---
 
 ## 💊 Choose your pill 
 

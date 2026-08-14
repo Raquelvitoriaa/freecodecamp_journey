@@ -6,8 +6,6 @@
 
 > "Welcome to the Matrix of Code."
 
----
-
 <p align="center">
 My journey of learning Software Development through <strong>FreeCodeCamp</strong>
 </p>

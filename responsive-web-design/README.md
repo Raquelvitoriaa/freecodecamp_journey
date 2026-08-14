@@ -101,6 +101,11 @@ Once i complete this certification, the official certificate will be availabre i
 
 ```
 
+## Modules
+
+- HTML Fundamentals...........  / 137 (%)
+- CSS & Responsive Design...... 0 / 165 (0%)
+
 ---
 
 # About this repository

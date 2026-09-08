@@ -165,10 +165,12 @@ freecodecamp-journey/
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
+---
+
 ### Technologies Used 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?/i=react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </p>
 
 ---

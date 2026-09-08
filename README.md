@@ -168,7 +168,7 @@ freecodecamp-journey/
 ### Technologies Used 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons/i=react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?/i=react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---

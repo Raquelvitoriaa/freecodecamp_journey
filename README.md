@@ -2,6 +2,11 @@
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Matrix Banner" width="100%" />
 </p>
 
+<p align="center">
+<img width="360" height="227" alt="image" src="https://github.com/user-attachments/assets/de7a8518-6f98-44f5-a932-ae86223fa6c8" />
+</p>
+
+
 <h1 align="center">FreeCodeCamp Journey</h1>
 
 > "Welcome to the Matrix of Code."
